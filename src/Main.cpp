@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    Calculator calc;
+    calculator calc;
     int a = 10, b = 5;
 
     std::cout << "Addition: " << calc.add(a, b) << std::endl;
