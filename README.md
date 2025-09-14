@@ -16,7 +16,7 @@ Create a simple C++ program that uses **header files** to perform basic arithmet
 3. Create a file named **main.cpp** and add the following code
 ```c++
 int main() {
-    Calculator calc;
+    calculator calc;
     int a = 10, b = 5;
 
     std::cout << "Addition: " << calc.add(a, b) << std::endl;
