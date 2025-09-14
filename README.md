@@ -13,7 +13,7 @@ Create a simple C++ program that uses **header files** to perform basic arithmet
    - multiply(double a, double b)
    - divide(double a, double b)
 2. Create the Implementation file named **calculator.cpp**, this file should have the implementation details for the all functions in the header file **calculator.h**.
-3. Create a file named **main.cpp** and add the following code
+3. Create a file named **Main.cpp** and add the following code
 ```c++
 int main() {
     calculator calc;
